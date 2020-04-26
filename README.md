@@ -2,4 +2,4 @@
 repository belajar shift academy
 
 Lesson :
-*Git
+* Git
